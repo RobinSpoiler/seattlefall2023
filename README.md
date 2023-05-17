@@ -11,14 +11,14 @@ Llamen a DIOS
 
 ## The List 🚴🏔
 > **Note**:
-> Khe
+> 2 or 3 bedrooms con kmita propia, en Seattle la mayoría, Accesible al transporte, Laundry room, television, clima, internet
 <!-- Please leave a one line gap between this and the table -->
 
-| Name/Option                                                                                                                                                                         | Location (neighborhood)                            | Link                                                                                                   |
+| Name/Option                                                                                                                                                                         | Link                          | Notas                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
 | Akuna Capital                                                                                   | Chicago, IL; Austin, TX; Boston, MA | **🔒 Closed 🔒** Quant Trading, SWE         (sponsorship available)                                                                              |
 | Amazon Robotics | Greater Boston, MA | **🔒 Closed 🔒** Software Development Engineer |
-| Apple          | Cupertino, CA                                  | **🔒 Closed 🔒** [SWE](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=SDNT), [Hardware](https://jobs.apple.com/en-us/details/200389042/hardware-technology-internship?team=STDNT)                                                                                                  |
+| Casita de Elinor         | [Casita de Elinor](https://www.airbnb.com/rooms/51730828?adults=2&check_in=2023-08-26&check_out=2023-12-17&federated_search_id=22022521-d53b-4d51-9285-8679642f674a&source_impression_id=p3_1684091623_8dhgj5vwKsB%2FRVpC)                                |                                                                                                 |
 | AQR                                  | Greenwich, CT                        | **🔒 Closed 🔒** Business Development                                                                                                         |
 | BD                                                                                    | San Diego, CA | **🔒 Closed 🔒** Data Science                                                                                     |
 | Bridgewater Associates | Westport, CT | **🔒 Closed 🔒** Investment Engineer Intern |
