@@ -14,7 +14,7 @@ Llamen a DIOS
 > Khe
 <!-- Please leave a one line gap between this and the table -->
 
-| Name/Option                                                                                                                                                                         | Location (neighborhood)                            | Link| Notes                                                                                                   |
+| Name/Option                                                                                                                                                                         | Location (neighborhood)                            | Link                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
 | Akuna Capital                                                                                   | Chicago, IL; Austin, TX; Boston, MA | **🔒 Closed 🔒** Quant Trading, SWE         (sponsorship available)                                                                              |
 | Amazon Robotics | Greater Boston, MA | **🔒 Closed 🔒** Software Development Engineer |
